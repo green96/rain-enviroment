@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 4b1783cb485c02f409d3bcd5fbcee80b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ceiling
+    100002: Cokol
+    100004: Door border
+    100006: Door_material
+    100008: Floor
+    100010: Glass
+    100012: Grass
+    100014: Handle_material
+    100016: Marble
+    100018: Pipe
+    100020: Pipe_2
+    100022: Pipe_4
+    100024: Plastic
+    100026: roof
+    100028: roof_2
+    100030: Roof_3
+    100032: Side
+    100034: //RootNode
+    100036: wall
+    100038: Wood
+    400000: ceiling
+    400002: Cokol
+    400004: Door border
+    400006: Door_material
+    400008: Floor
+    400010: Glass
+    400012: Grass
+    400014: Handle_material
+    400016: Marble
+    400018: Pipe
+    400020: Pipe_2
+    400022: Pipe_4
+    400024: Plastic
+    400026: roof
+    400028: roof_2
+    400030: Roof_3
+    400032: Side
+    400034: //RootNode
+    400036: wall
+    400038: Wood
+    2100000: Pipe
+    2100002: Pipe_2
+    2100004: Floor
+    2100006: Cokol
+    2100008: Door_material
+    2100010: Marble
+    2100012: Plastic
+    2100014: ceiling
+    2100016: wall
+    2100018: Road
+    2100020: Grass
+    2100022: Wood
+    2100024: Glass
+    2100026: Side
+    2100028: Roof
+    2100030: Roof_3
+    2100032: Pipe_4
+    2100034: Door border
+    2100036: Handle_material
+    2300000: ceiling
+    2300002: Cokol
+    2300004: Door border
+    2300006: Door_material
+    2300008: Floor
+    2300010: Glass
+    2300012: Grass
+    2300014: Handle_material
+    2300016: Marble
+    2300018: Pipe
+    2300020: Pipe_2
+    2300022: Pipe_4
+    2300024: Plastic
+    2300026: roof
+    2300028: roof_2
+    2300030: Roof_3
+    2300032: Side
+    2300034: wall
+    2300036: Wood
+    3300000: ceiling
+    3300002: Cokol
+    3300004: Door border
+    3300006: Door_material
+    3300008: Floor
+    3300010: Glass
+    3300012: Grass
+    3300014: Handle_material
+    3300016: Marble
+    3300018: Pipe
+    3300020: Pipe_2
+    3300022: Pipe_4
+    3300024: Plastic
+    3300026: roof
+    3300028: roof_2
+    3300030: Roof_3
+    3300032: Side
+    3300034: wall
+    3300036: Wood
+    4300000: Pipe
+    4300002: Pipe_2
+    4300004: Floor
+    4300006: Cokol
+    4300008: Door_material
+    4300010: Marble
+    4300012: Plastic
+    4300014: ceiling
+    4300016: wall
+    4300018: Grass
+    4300020: Wood
+    4300022: Glass
+    4300024: Side
+    4300026: roof_2
+    4300028: roof
+    4300030: Roof_3
+    4300032: Pipe_4
+    4300034: Door border
+    4300036: Handle_material
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
